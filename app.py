@@ -69,3 +69,4 @@ if user_input:
         st.error(f"Error: {e}")
 else:
     st.info("Please provide a query.")
+    
